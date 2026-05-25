@@ -3,3 +3,4 @@ Repositorio dedicado a los proyectos y talleres de la materia Arquitectura de In
 
 ## Contenido
 - [ENTREGA 1: Sockets y Multijugador](./ENTREGA_1_SOCKETS/)
+- [ENTREGA 2:](./ENTREGA_2_PKT/)
